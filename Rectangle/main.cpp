@@ -12,7 +12,4 @@ int main(int argc, char* args[])
 
 	rect1.Print();
 	pRect2->Print();
-
-
-
 }
